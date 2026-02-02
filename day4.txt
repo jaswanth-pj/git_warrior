@@ -1,0 +1,2 @@
+day 4 battle started
+learning git diff and git log.
